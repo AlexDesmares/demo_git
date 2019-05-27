@@ -5,4 +5,4 @@ test commit
 
 Premiere modification depuis github
 
-Seconde modification en locale
+Seconde modification en locale "démonstration effectuée"
