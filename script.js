@@ -1,5 +1,6 @@
 function a(){
-	return "a"
+	var maVariable = "A"
+	return maVariable
 }
 
 function b(){
